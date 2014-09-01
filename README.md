@@ -1,0 +1,4 @@
+clonetest
+=========
+
+Test for clone
